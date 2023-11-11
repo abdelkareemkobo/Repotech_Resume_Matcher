@@ -1,0 +1,10 @@
+# paste your qdrant api key here
+# note this is sensitive data
+# handle with care
+# DO NOT COMMIT THIS FILE WITH YOUR API KEY
+
+cohere:
+    api_key: cohere_api_key
+qdrant:
+    api_key: qdrant_api_key
+    url: qdrant_instance_url_on_the_cloud

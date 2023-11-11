@@ -1,0 +1,2 @@
+2023-10-23 13:56:48,561 - scripts.similarity.get_similarity_score - INFO - Started getting similarity score
+2023-10-23 13:56:49,420 - httpx - INFO - HTTP Request: DELETE https://4317f55d-c507-438e-a247-f9050f071264.us-east-1-0.aws.cloud.qdrant.io:6333/collections/collection_resume_matcher "HTTP/1.1 404 Not Found"

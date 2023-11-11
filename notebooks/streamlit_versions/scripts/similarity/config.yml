@@ -1,0 +1,10 @@
+# paste your qdrant api key here
+# note this is sensitive data
+# handle with care
+# DO NOT COMMIT THIS FILE WITH YOUR API KEY
+
+cohere:
+    api_key: bawBsIuVkQfzYemRetQyo0rjIDGUVfRLbqL7ew7g
+qdrant:
+    api_key: ZlchHhJzVUaF-DQNL2bKymhpmDpnVXBvgzrHRWCRcD5__-E6AbaQww
+    url: https://4317f55d-c507-438e-a247-f9050f071264.us-east-1-0.aws.cloud.qdrant.io:6333
